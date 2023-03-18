@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
-  *Hello
+  *main - Program to prinf exact script
+  *return: 0 (success)
 */
 int main(void)
 {
