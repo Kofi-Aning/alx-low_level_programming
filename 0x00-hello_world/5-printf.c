@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  *main - Intial Point
+  *main: Intial Point
   *return: 0 as(success)
 */
 int main(void)
